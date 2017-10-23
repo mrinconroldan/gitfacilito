@@ -7,6 +7,7 @@
 int main(int argc, char **argv)
 {
   int num;
+  int pedro;
 //  printf("debug: argc [%d]\n", argc);
   
   if (argc!=2)
