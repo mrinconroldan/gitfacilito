@@ -9,7 +9,8 @@ int main(int argc, char **argv)
   int num;
   int ramatest;
 //  printf("debug: argc [%d]\n", argc);
-   //printf("RamaTest");
+   //printf("RamaTest")
+//printf("Segundo Cambio en a rama Test");;
   if (argc!=2)
   {
 	printf("uso: %s <numero>\n", argv[0]);
