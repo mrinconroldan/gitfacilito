@@ -7,6 +7,7 @@
 int main(int argc, char **argv)
 {
   int num;
+  int testeo;
 //  printf("debug: argc [%d]\n", argc);
    //printf("RamaTest")
 //printf("Segundo Cambio en a rama Test");;
